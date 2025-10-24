@@ -14,7 +14,6 @@ This project demonstrates an end-to-end **Azure Data Engineering pipeline** that
 3. **Databricks Notebook** – Cleans and transforms data, replacing invalid totals and partitioning by province.
 4. **Curated Zone (ADLS)** – Stores partitioned data ready for analytics.
 5. **Copy Activity (ADF)** – Loads clean data into `Azure SQL` tables.
-6. **Power BI Dashboard (optional)** – Visualizes insights.
 
 ---
 
