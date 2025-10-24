@@ -6,7 +6,7 @@ This project demonstrates an end-to-end **Azure Data Engineering pipeline** that
 
 ## 🚀 Architecture
 
-![Architecture Diagram]<img width="1536" height="1024" alt="ab6d72c5-4447-46f7-9b2e-95d3636a3ce2" src="https://github.com/user-attachments/assets/98fc1f13-a1b1-4dcc-bbf9-e73b088d3345" />
+<img width="1536" height="1024" alt="ab6d72c5-4447-46f7-9b2e-95d3636a3ce2" src="https://github.com/user-attachments/assets/98fc1f13-a1b1-4dcc-bbf9-e73b088d3345" />
 
 
 **Pipeline Flow:**
