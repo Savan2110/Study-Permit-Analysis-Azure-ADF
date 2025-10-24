@@ -34,6 +34,3 @@ This project demonstrates an end-to-end **Azure Data Engineering pipeline** that
 ✅ Automated table creation in SQL  
 ✅ End-to-end ADF orchestration  
 
----
-
-## 📂 Project Structure
